@@ -1,0 +1,12 @@
+Hello Everyone.
+
+How do you think you can improve your programming skills ?
+I've discovered a truly shocking method.
+
+First, take a look at the code below.
+
+#include <stdio.h>
+int main(void){
+    //
+}
+
